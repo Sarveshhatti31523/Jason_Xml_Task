@@ -1,0 +1,20 @@
+<collegues>
+	<collegue name="Sarvesh" >
+	  <Location value="Bijapur" />
+	  <Birth_year value="1999" />
+	  <Company value="Qualitest"/>
+	</collegue>
+	
+	<collegue name="Nikhil">
+	 <Location value="Banglore" />
+	  <Birth_year value="1999" />
+	  <Company value="Qualitest India"/>
+	</collegue>
+	
+	<collegue name="Praveen">
+	 <Location value="Dharwad" />
+	  <Birth_year value="1999" />
+	  <Company value="Qualitest,Bangl"/>
+	</collegue>
+	
+</collegues>
